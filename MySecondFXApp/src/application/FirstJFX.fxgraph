@@ -1,0 +1,10 @@
+package application
+
+import javafx.scene.layout.BorderPane
+import application.FXController
+
+component FirstJFX controlledby FXController {
+	BorderPane {
+		//TODO Add Nodes
+	}
+}
